@@ -1,0 +1,10 @@
+,Independent regime,Persistent Markov regime
+reserve_breach_probability,0.30435,0.2409
+average_minimum_balance,5521.39,5509.3555
+average_ending_balance,5577.841,5567.365
+average_reserve_shortfall,46.614,69.2685
+liquidity_var_95,270.0,470.0
+liquidity_cvar_95,352.28,665.41
+average_outstanding_payments,1.1416214285714286,1.2762642857142856
+average_final_backlog,1.20265,1.37725
+average_peak_backlog,3.56545,3.5214
